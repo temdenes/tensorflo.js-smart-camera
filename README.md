@@ -1,6 +1,3 @@
-# tensorflow.js-smart-camera
-A smart camera built in Tensorflows.js that can recognize objects.
-
 TensorFlow.js Boilerplate
 =================
 
